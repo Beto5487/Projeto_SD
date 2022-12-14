@@ -16,4 +16,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: raulgoncalves/projetosd:latest, raulgoncalves/projetosd:${{ github.run_number }}
+        tags: raulgoncalves/projetosd:latest, raulgoncalves/projetosd:v${{ github.run_number }}
