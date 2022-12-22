@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: sd
-        image: raulgoncalves/projetosd:v7
+        image: raulgoncalves/projetosd:v13
         ports:
         - containerPort: 3000
 ---
